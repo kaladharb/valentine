@@ -2,11 +2,11 @@ import { useState, useEffect } from "react";
 
 function Closing() {
   const images = [
-    "public/images/5.jpeg",
-    "public/images/8.jpeg",
-    "public/images/9.jpeg",
-    "public/images/10.jpeg",
-    "public/images/7.jpeg",
+    "images/5.jpeg",
+    "images/8.jpeg",
+    "images/9.jpeg",
+    "images/10.jpeg",
+    "images/7.jpeg",
   ];
 
   const [current, setCurrent] = useState(0);
