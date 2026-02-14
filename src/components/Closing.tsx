@@ -2,11 +2,11 @@ import { useState, useEffect } from "react";
 
 function Closing() {
   const images = [
-    "https://res.cloudinary.com/dhikxtjqr/image/upload/c_pad,ar_3:4/v1771011793/IMG-20260213-WA0115.jpg_n07mhx.jpg",
-    "https://res.cloudinary.com/dhikxtjqr/image/upload/v1771011809/IMG-20260213-WA0127.jpg_h8zwjx.jpg",
-    "https://res.cloudinary.com/dhikxtjqr/image/upload/v1771011809/IMG-20260213-WA0125.jpg_icgugv.jpg",
-    "https://res.cloudinary.com/dhikxtjqr/image/upload/v1771011809/IMG-20260213-WA0126.jpg_k0flsz.jpg",
-    "https://res.cloudinary.com/dhikxtjqr/image/upload/a_-90/v1771011791/IMG-20260213-WA0113.jpg_kexxnd.jpg",
+    "public/images/5.jpeg",
+    "public/images/8.jpeg",
+    "public/images/9.jpeg",
+    "public/images/10.jpeg",
+    "public/images/7.jpeg",
   ];
 
   const [current, setCurrent] = useState(0);

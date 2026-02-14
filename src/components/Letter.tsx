@@ -32,7 +32,7 @@ With all my heart ❤️`;
 
   useEffect(() => {
     let currentIndex = 0;
-    const typingSpeed = 80;
+    const typingSpeed = 5;
 
     const interval = setInterval(() => {
       if (currentIndex <= fullText.length) {

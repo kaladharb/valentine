@@ -7,33 +7,27 @@ interface GalleryProps {
 function Gallery({ onNext }: GalleryProps) {
   const memories = [
     {
-      image:
-        "https://res.cloudinary.com/dhikxtjqr/image/upload/a_-90/v1771007272/IMG-20260213-WA0109.jpg_noypev.jpg",
-      caption: "Every smile feels like home",
-    },
-    {
-      image:
-        "https://res.cloudinary.com/dhikxtjqr/image/upload/c_crop,w_950,h_2000/v1771007272/IMG-20260213-WA0120.jpg_cc6zmx.jpg",
-      caption: "Holding hearts,not just hands",
-    },
-    {
-      image:
-        "https://res.cloudinary.com/dhikxtjqr/image/upload/c_crop,w_1050,h_4000/v1771007271/IMG-20260213-WA0128.jpg_usqa9a.jpg",
-      caption: "Ice Cream dates and sweet conversations",
-    },
-    {
-      image:
-        "https://res.cloudinary.com/dhikxtjqr/image/upload/c_crop,w_1050,h_4000/v1771007272/IMG-20260213-WA0112.jpg_ijyuuh.jpg",
-      caption: "Every moment with you is magic",
-    },
-    {
-      image:
-        "https://res.cloudinary.com/dhikxtjqr/image/upload/v1771007292/IMG_20260207_135702.jpg_bwcq1s.jpg",
+      image: "public/images/2.jpeg",
       caption: "Making memories, one day at a time",
     },
     {
-      image:
-        "https://res.cloudinary.com/dhikxtjqr/image/upload/a_-90/v1771007272/IMG-20260213-WA0117.jpg_ivnter.jpg",
+      image: "public/images/7.jpeg",
+      caption: "Holding hearts,not just hands",
+    },
+    {
+      image: "public/images/1.jpeg",
+      caption: "Ice Cream dates and sweet conversations",
+    },
+    {
+      image: "public/images/3.jpeg",
+      caption: "Every moment with you is magic",
+    },
+    {
+      image: "public/images/6.jpeg",
+      caption: "Making memories, one day at a time",
+    },
+    {
+      image: "public/images/4.jpeg",
       caption: "You make everything better",
     },
   ];
