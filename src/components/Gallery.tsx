@@ -6,15 +6,15 @@ interface GalleryProps {
 
 function Gallery({ onNext }: GalleryProps) {
   const memories = [
-    { image: "images/2.jpeg", caption: "Making memories, one day at a time" },
-    { image: "images/7.jpeg", caption: "Holding hearts, not just hands" },
+    { image: "images/2.jpg", caption: "Making memories, one day at a time" },
+    { image: "images/7.jpg", caption: "Holding hearts, not just hands" },
     {
-      image: "images/1.jpeg",
+      image: "images/1.jpg",
       caption: "Ice Cream dates and sweet conversations",
     },
-    { image: "images/3.jpeg", caption: "Every moment with you is magic" },
-    { image: "images/6.jpeg", caption: "Making memories, one day at a time" },
-    { image: "images/4.jpeg", caption: "You make everything better" },
+    { image: "images/2.jpg", caption: "Every moment with you is magic" },
+    { image: "images/7.jpg", caption: "Making memories, one day at a time" },
+    { image: "images/4.jpg", caption: "You make everything better" },
   ];
 
   return (

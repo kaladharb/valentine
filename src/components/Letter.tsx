@@ -9,21 +9,11 @@ function Letter({ onNext }: LetterProps) {
   const [displayedText, setDisplayedText] = useState("");
   const [showButton, setShowButton] = useState(false);
 
-  const fullText = `Heyy Priya Ga luvvvv you nee😚😚,
-idhi manchiga chadhuvu 👇,
-
-Naa jeevitham lo nuvvu oka andamaina miracle la vachav, assal yela anipisthadi appud appud nuv senior nen juniorrrr... Okkksarii arey how ra 😁 but starting lo neek msg chesthunna prathisari nak edho theliyani anadham inka inka matladali ani, but senior junior ane unde...adhii chinnaga chinnga friendship ayindhi ala ala jargipoyindi.. Nuv clg lo kanipisthe ma frnds nannu pilusthunteee nen pchi chusthundee abhaa ah feelll balee undedhi... Idhi kuda koncham koncham marindi final ga dare chesa cheppeysa but nuv oppukuntav ane nammakam thonee cheppina anuko😌😉 , pedda show candidate la nak tym kavali ata😂 Sare lee anukunna papa padipoyindii lee iga ani silent unde... 
-
-Yeahhhh finally you said that beautiful words from your side on my birthday so there is no chance to forgot when you have proposed me😁😅, so manaki dhinigurinchi m godva radh  and but after we faced some issues with your bleedy classmates 🙂, iga ayipoyindi anukunna but you proved me wrong malli msg ochindi iga appude fix ayina yedii m ayina ninnu odhiledh prasakther ledh ani so iga ala ala frst meet kuda jargindi adhiu mathram crazyyy assal... 😁 assal nammaleka pothunneee ntii nena.. Nak kuda lover undha ani so finally from that day to now  chala chala happy unde.🥰 
-Ninnu choodagane naa heart automatic ga happy mode lo ki vellipothundi☺
-
-Naa girlfriend kaadhu, naa best friend nuvve. Naa silent moments ni kuda ardham chesukune oka andamaina manishi nuvvu. Naa chinna chinna happiness ki kuda nuvvu value isthav. Nuvvu naa life lo unanduku prathi roju thank you cheppali anipisthundi.😚😉
-Neetho unna prathi sari baguntundi. Nee pakkana unna kshanalu naa life lo most peaceful moments😇.  Nee presence matrame chaalu, naa day antha special ayipothundi🥳
-
-Neetho ila ne happy ga untu☺, life motham nadavali ani kalalu kantunna. Manchi moments, chinna fights👊, pedda smiles 😸 anni nee tho ne share cheskovali ani korukuntunna. Adi antha nijam ga jaragali ani prathi roju devudini korukuntunna.
-
-LOVE YOU CHOOO MUCHH PRIYA GADUUU😚😚😚
-
+  const fullText = `About your love....................................,
+  kaoxmwoenoenocn.............cdkc k
+  ................cnenic
+  odcnwokcnono.wncniw convoj
+  ..................
 Thank you for choosing me. Thank you for being you.
 Forever yours,
 With all my heart ❤️`;

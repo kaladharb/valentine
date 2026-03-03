@@ -2,11 +2,12 @@ import { useState, useEffect } from "react";
 
 function Closing() {
   const images = [
-    "images/5.jpeg",
-    "images/8.jpeg",
-    "images/9.jpeg",
-    "images/10.jpeg",
-    "images/7.jpeg",
+    "images/5.jpg",
+    "images/8.jpg",
+    "images/9.jpg",
+    "images/8.jpg",
+    "images/9.jpg",
+    "images/10.jpg",
   ];
 
   const [current, setCurrent] = useState(0);
@@ -67,11 +68,11 @@ function Closing() {
 
         {/* TEXT */}
         <text x="250" y="220" textAnchor="middle" fontSize="22" fill="white">
-          KALADHAR
+          <b>RAVI</b>
         </text>
 
         <text x="550" y="220" textAnchor="middle" fontSize="22" fill="white">
-          PRIYA
+          <b>SNEHA</b>
         </text>
       </svg>
     </div>
